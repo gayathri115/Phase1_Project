@@ -1,0 +1,6 @@
+C:\Users\S_Gayathri\source\repos\RainbowSchool\RainbowSchool\bin\Debug\RainbowSchool.exe
+C:\Users\S_Gayathri\source\repos\RainbowSchool\RainbowSchool\bin\Debug\RainbowSchool.exe.config
+C:\Users\S_Gayathri\source\repos\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.exe
+C:\Users\S_Gayathri\source\repos\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.pdb
+C:\Users\S_Gayathri\source\repos\RainbowSchool\RainbowSchool\bin\Debug\RainbowSchool.pdb
+C:\Users\S_Gayathri\source\repos\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.csprojAssemblyReference.cache
